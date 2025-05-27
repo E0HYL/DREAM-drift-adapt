@@ -1,6 +1,6 @@
 # DREAM for Combating Concept Drift
 
-Official code for our CCS'25 paper "Combating Concept Drift with Explanatory Detection and Adaptation for Android Malware Classification"
+Official code for our [CCS'25 paper](https://arxiv.org/pdf/2405.04095) "Combating Concept Drift with Explanatory Detection and Adaptation for Android Malware Classification". 
 
 ## Setup
 
